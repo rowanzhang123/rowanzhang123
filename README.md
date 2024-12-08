@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rowanzhang
+- 👋 Hi, I’m @rowanzhang123
 - 👀 I’m interested in aerospace electronics and industrial electronics
 - 🌱 I’m currently studying Mechatronic Engineering
 - 💞️ I’m looking to collaborate on ...
