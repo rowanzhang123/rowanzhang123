@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rowanzhang123
 - 👀 I’m interested in aerospace electronics and industrial electronics
-- 🌱 I’m currently studying Mechatronic Engineering
+- 🌱 I’m currently studying Mechanical Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email rowanzhang123@gmail.com
 - 😄 Pronouns: they/them
